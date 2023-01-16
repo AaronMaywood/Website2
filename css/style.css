@@ -20,7 +20,7 @@ button{
 a {
 	text-decoration: none;
 	color: white;
-	font-size: 1.25rem;	/* 20px */
+	font-size: 20px;
 }
 
 /* resetここまで */
@@ -102,11 +102,11 @@ header.main-header .lead {
 header.main-header h2 {
 	font-family: "Crimson Text", serif;
 	font-weight: bold;
-	font-size: 2.5rem;	/* 40px */
+	font-size: 40px;
 }
 
 header.main-header .desc {
-	font-size: 1.25rem;	/* 20px */
+	font-size: 20px;
 }
 
 header .card {
@@ -135,17 +135,17 @@ header .card .description {
 
 header .card .description .lead {
 	font-weight: bold;
-	font-size: 1rem;	/* 16px */
+	font-size: 16px;
 }
 
 header .card .description .heading {
 	font-family: "Crimson Text", serif;
 	font-weight: bold;
-	font-size: 2.5rem;	/* 40px */
+	font-size: 40px;
 }
 
 header .card .description .summary {
-	font-size: 0.9375rem;	/* 15px */
+	font-size: 15px;
 	color: white;
 }
 
@@ -153,7 +153,7 @@ header .card .description button {
 	width: 10rem;
 	height: 3rem;
 	border-radius: 3px;
-	font-size: 1.25rem;	/* 20px */
+	font-size: 20px;
 	background: white;
 }
 
@@ -200,11 +200,11 @@ header .card .thumbnail {
 .pertners header h2 {
 	font-family: "Crimson Text", serif;
 	font-weight: bold;
-	font-size: 2.5rem;	/* 40px */
+	font-size: 40px;
 }
 
 .pertners header .desc {
-	font-size: 1.25rem;	/* 20px */
+	font-size: 20px;
 }
 
 .pertners ul {
@@ -241,11 +241,11 @@ header .card .thumbnail {
 .card .description h2 {
 	font-family: "Crimson Text", serif;
 	font-weight: bold;
-	font-size: 2.5rem;	/* 40px */
+	font-size: 40px;
 }
 
 .card .description .summary {
-	font-size: 0.9375rem;	/* 15px */
+	font-size: 15px;
 	color: #21252980;
 }
 
@@ -287,11 +287,11 @@ header .card .thumbnail {
 .team header h2 {
 	font-family: "Crimson Text", serif;
 	font-weight: bold;
-	font-size: 2.5rem;	/* 40px */
+	font-size: 40px;
 }
 
 .team header .desc {
-	font-size: 1.25rem;	/* 20px */
+	font-size: 20px;
 }
 
 .team ul {
@@ -325,11 +325,11 @@ header .card .thumbnail {
 .avatar .name {
 	font-family: "Crimson Text", serif;
 	font-weight: bold;
-	font-size: 1.5rem; /* 24px */
+	font-size: 24px;
 }
 
 .avatar .position {
-	font-size: 0.9375rem;	/* 15px */
+	font-size: 15px;
 	color: #212529BF;		/* 末尾のBFはアルファ値75%の意味(Figmaより取得) */
 }
 
@@ -342,7 +342,7 @@ button {
 
 button p {
 	color: white;
-	font-size: 1.25rem;	/* 20px */
+	font-size: 20px;
 }
 
 footer {
@@ -373,7 +373,7 @@ footer ul.sns {
 }
 
 footer small {
-	font-size: 1.25rem;	/* 20px */
+	font-size: 20px;
 }
 
 /*
@@ -414,7 +414,7 @@ MEMO このソースではこのサイズより小さい時には固定とし、
 	}
 
 	header.main-header h2 {
-		font-size: 1.5rem;	/* 24px */
+		font-size: 24px;
 	}
 
 	footer {
@@ -455,7 +455,7 @@ MEMO このソースではこのサイズより小さい時には固定とし、
 	}
 
 	header .card .description .heading {
-		font-size: 1.75rem; /* 28px */
+		font-size: 28px;
 	}
 
 	header .card .thumbnail {
@@ -478,7 +478,7 @@ MEMO このソースではこのサイズより小さい時には固定とし、
 	.card .description h2 {
 		font-family: "Crimson Text", serif;
 		font-weight: bold;
-		font-size: 1.5rem;	/* 24px */
+		font-size: 24px;
 	}
 
 	footer {
