@@ -130,7 +130,7 @@ header .card .description {
 	*/
 	display:flex;
 	flex-direction: column;
-	gap: 1.5rem;		/* 24px */
+	gap: 24px;
 }
 
 header .card .description .lead {
@@ -235,7 +235,7 @@ header .card .thumbnail {
 	grid-area: description;
 	display:flex;
 	flex-direction: column;
-	gap: 1.5rem;		/* 24px */
+	gap: 24px;
 }
 
 .card .description h2 {
