@@ -78,37 +78,6 @@ nav ul {
 	gap: 30px;
 }
 
-article {
-	text-align: center;		/* インライン要素であるbuttonを中央寄せ */
-}
-
-header.main-header {
-	display: flex;
-	flex-direction: column; /* 主軸を縦方向にし、flex itemを縦に並べる */
-	gap: 16px;				/* flex item間の隙間 */
-
-	/* ボックスを中央寄せ */
-	width: 411px;
-	margin: 20px auto 80px;	/* top:20px, bottom:80px */
-	/* 内容も中央寄せ */
-	text-align: center;
-}
-
-header.main-header .lead {
-	color: #74C69D;
-	font-weight: bold;
-}
-
-header.main-header h2 {
-	font-family: "Crimson Text", serif;
-	font-weight: bold;
-	font-size: 40px;
-}
-
-header.main-header .desc {
-	font-size: 20px;
-}
-
 header .card {
 	/* リキッド */
 	width: 80%;
@@ -406,15 +375,6 @@ MEMO このソースではこのサイズより小さい時には固定とし、
 
 	header .logo {
 		width: 45px;
-	}
-
-	header.main-header {
-		width: 335px;
-		margin: 36px auto 36px;	/* top:36px, bottom:36px */
-	}
-
-	header.main-header h2 {
-		font-size: 24px;
 	}
 
 	footer {
