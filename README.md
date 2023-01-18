@@ -68,7 +68,7 @@ HTML/CSSを実装する際にレイアウト崩れが発生するなどの理由
 <img src="images/eyecatch.svg" width="644" height="378" alt="">
 
 
-<p>PERTNERS</h2>
+<p>PERTNERS</p>
 <h2>Lorem Ipsum Dolor</h2>
 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
 
@@ -92,7 +92,7 @@ HTML/CSSを実装する際にレイアウト崩れが発生するなどの理由
 <p>Learn More</p>
 <img src="images/image2.svg" width="600" height="565" alt="">
 
-<p>TEAM</h2>
+<p>TEAM</p>
 <h2>Our Talents</h2>
 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
 
