@@ -357,7 +357,8 @@ MEMO このソースではこのサイズより小さい時には固定とし、
 	.when-mobile { display: block; }
 
 	body {
-		width: 375px;
+		width: 100%;
+		max-width: 375px;
 	}
 
 	header .wrapper {
