@@ -425,3 +425,9 @@ MEMO このソースではこのサイズより小さい時には固定とし、
 	}
 
 }
+
+@media (max-width: 1340px) {
+	.flex-column2 ul {
+		max-width: 880px;
+	}
+}
