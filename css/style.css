@@ -42,7 +42,7 @@ body {
 }
 
 header.page-header {
-	background: #74C69D;
+	background: #4DA49B;
 	color: white;
 	padding-bottom: 2rem;
 }
@@ -133,6 +133,7 @@ header .card .description button p {
 header .card .thumbnail {
 	grid-area: thumbnail;
 	width: 100%;		/* この行を外してみるとこの行の意味が分かるはず。（セルの幅を左右均等にするためのもの） */
+	height: auto;
 }
 
 .flex-column1 {
@@ -162,7 +163,7 @@ header .card .thumbnail {
 }
 
 .pertners header .lead {
-	color: #74C69D;
+	color: #4DA49B;
 	font-weight: bold;
 }
 
@@ -249,7 +250,7 @@ header .card .thumbnail {
 }
 
 .team header .lead {
-	color: #74C69D;
+	color: #4DA49B;
 	font-weight: bold;
 }
 
@@ -315,7 +316,7 @@ button p {
 }
 
 footer {
-	background: #74C69D;
+	background: #4DA49B;
 	color: white;
 }
 
