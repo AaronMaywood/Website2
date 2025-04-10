@@ -19,7 +19,7 @@ Google Fonts で以下のフォントを用意して下さい。700等の数値�
 
 ## 色
 
-- ミントグリーン ... #74C69D
+- ミントグリーン ... #4DA49B
 - ボタンの黒 ... #212529
 
 ## Breakpoints
@@ -49,7 +49,7 @@ HTML/CSSを実装する際にレイアウト崩れが発生するなどの理由
 
 <title>Responsive Startup Website</title>
 
-<img src="images/logo.svg" width="70" height="48" alt="">Start
+<img src="images/logo.png" height="48" alt="">Lorem
 
 <ul>
 	<li><a href="">Home</a></li>
@@ -65,7 +65,7 @@ HTML/CSSを実装する際にレイアウト崩れが発生するなどの理由
 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit nemo hic quos, ab, dolor aperiam nobis cum est eos error ipsum, voluptate culpa nesciunt delectus iste?</p>
 <p>Explore</p>
 
-<img src="images/eyecatch.svg" width="644" height="378" alt="">
+<img src="images/eyecatch.png" width="644" height="378" alt="">
 
 
 <p>PERTNERS</p>
@@ -73,11 +73,11 @@ HTML/CSSを実装する際にレイアウト崩れが発生するなどの理由
 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
 
 <ul>
-	<li><img src="images/google.svg" width="152" height="50" alt="Google"></li>
-	<li><img src="images/microsoft.svg" width="210" height="45" alt="Microsoft"></li>
-	<li><img src="images/airbnb.svg" width="160" height="50" alt="airbnb"></li>
-	<li><img src="images/facebook.svg" width="196" height="38" alt="facebook"></li>
-	<li><img src="images/spotify.svg" width="167" height="50" alt="Spotify"></li>
+	<li><img src="images/logo_01.png" height="50" alt=""></li>
+	<li><img src="images/logo_02.png" height="50" alt=""></li>
+	<li><img src="images/logo_03.png" height="50" alt=""></li>
+	<li><img src="images/logo_04.png" height="50" alt=""></li>
+	<li><img src="images/logo_05.png" height="50" alt=""></li>
 </ul>
 
 <p>Learn More</p>
@@ -85,44 +85,44 @@ HTML/CSSを実装する際にレイアウト崩れが発生するなどの理由
 <h2>Lorem ipsum dolor sit amet consectetur</h2>
 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit nemo hic quos, ab, dolor aperiam nobis cum est eos error ipsum, voluptate culpa nesciunt delectus iste?</p>
 <p>Learn More</p>
-<img src="images/image1.svg" width="600" height="431" alt="">
+<img src="images/image1.png" width="600" alt="">
 
 <h2>Lorem ipsum dolor sit amet consectetur</h2>
 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Suscipit nemo hic quos, ab, dolor aperiam nobis cum est eos error ipsum, voluptate culpa nesciunt delectus iste?</p>
 <p>Learn More</p>
-<img src="images/image2.svg" width="600" height="565" alt="">
+<img src="images/image2.png" width="600" height="565" alt="">
 
 <p>TEAM</p>
 <h2>Our Talents</h2>
 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
 
-<img src="images/avatar1.svg" width="175" height="175" alt="Google">
+<img src="images/avatar1.png" width="175" height="175" alt="">
 <p>Peg Legge</p>
 <p>CEO</p>
 
-<img src="images/avatar2.svg" width="175" height="175" alt="Google">
+<img src="images/avatar2.png" width="175" height="175" alt="">
 <p>Richard Guerra</p>
 <p>CTO</p>
 
-<img src="images/avatar3.svg" width="175" height="175" alt="Google">
+<img src="images/avatar3.png" width="175" height="175" alt="">
 <p>Alexandra Stolz</p>
 <p>DEDSIGNER</p>
 
-<img src="images/avatar4.svg" width="175" height="175" alt="Google">
+<img src="images/avatar4.png" width="175" height="175" alt="">
 <p>Janet Bray</p>
 <p>DEVELOPER</p>
 
 <p>View Team</p>
 
 <ul>
-	<li><a href="" target="_blank"><img src="images/sns/facebook.svg" height="18" alt="Facebook"></a></li>
-	<li><a href="" target="_blank"><img src="images/sns/instagram.svg" height="18" alt="Instagram"></a></li>
-	<li><a href="" target="_blank"><img src="images/sns/twitter.svg" height="18" alt="Twitter"></a></li>
-	<li><a href="" target="_blank"><img src="images/sns/pinterest.svg" height="18" alt="Pinterest"></a></li>
-	<li><a href="" target="_blank"><img src="images/sns/tiktok.svg" height="18" alt="TikTok"></a></li>
-	<li><a href="" target="_blank"><img src="images/sns/whatsapp.svg" height="18" alt="WhatsApp"></a></li>
-	<li><a href="" target="_blank"><img src="images/sns/youtube.svg" height="18" alt="YouTube"></a></li>
+	<li><a href="" target="_blank"><img src="images/sns/icon_01.png" height="18" alt=""></a></li>
+	<li><a href="" target="_blank"><img src="images/sns/icon_02.png" height="18" alt=""></a></li>
+	<li><a href="" target="_blank"><img src="images/sns/icon_03.png" height="18" alt=""></a></li>
+	<li><a href="" target="_blank"><img src="images/sns/icon_04.png" height="18" alt=""></a></li>
+	<li><a href="" target="_blank"><img src="images/sns/icon_05.png" height="18" alt=""></a></li>
+	<li><a href="" target="_blank"><img src="images/sns/icon_06.png" height="18" alt=""></a></li>
+	<li><a href="" target="_blank"><img src="images/sns/icon_07.png" height="18" alt=""></a></li>
 </ul>
 
-<small>© Start, 2022. All rights reserved.</small>
+<small>© Lorem, 2025. All rights reserved.</small>
 
