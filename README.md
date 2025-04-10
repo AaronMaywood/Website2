@@ -96,19 +96,19 @@ HTML/CSSを実装する際にレイアウト崩れが発生するなどの理由
 <h2>Our Talents</h2>
 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
 
-<img src="images/avatar1.png" width="175" height="175" alt="Google">
+<img src="images/avatar1.png" width="175" height="175" alt="">
 <p>Peg Legge</p>
 <p>CEO</p>
 
-<img src="images/avatar2.png" width="175" height="175" alt="Google">
+<img src="images/avatar2.png" width="175" height="175" alt="">
 <p>Richard Guerra</p>
 <p>CTO</p>
 
-<img src="images/avatar3.png" width="175" height="175" alt="Google">
+<img src="images/avatar3.png" width="175" height="175" alt="">
 <p>Alexandra Stolz</p>
 <p>DEDSIGNER</p>
 
-<img src="images/avatar4.png" width="175" height="175" alt="Google">
+<img src="images/avatar4.png" width="175" height="175" alt="">
 <p>Janet Bray</p>
 <p>DEVELOPER</p>
 
