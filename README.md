@@ -49,7 +49,7 @@ HTML/CSSを実装する際にレイアウト崩れが発生するなどの理由
 
 <title>Responsive Startup Website</title>
 
-<img src="images/logo.svg" width="70" height="48" alt="">Start
+<img src="images/logo.png" height="48" alt="">Lorem
 
 <ul>
 	<li><a href="">Home</a></li>
