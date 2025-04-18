@@ -190,15 +190,15 @@ header .card .thumbnail {
 .card {
 	/* リキッド */
 	width: 80%;
-	max-width: 1175px;
+	max-width: 1180px;
 	margin: 0 auto;
 
 	display:grid;
 	/* 左右に二等分するエリア（均等割ではなく、偏りがある） */
 	grid-template-areas: "thumbnail description";	/* エリアに名前を与えて */
-	grid-template-columns: 1fr 30%;				/* エリアの幅の大きさに偏りをもたせる */
+	grid-template-columns: 1fr 470px;				/* エリアの幅の大きさに偏りをもたせる */
 	align-items: center;
-	gap: 100px;
+	gap: 110px;
 }
 
 .card .description {
@@ -226,7 +226,7 @@ header .card .thumbnail {
 
 .topic2 .card {
 	grid-template-areas: "description thumbnail";	/* .topic1とは逆 */
-	grid-template-columns: 30% 1fr;
+	grid-template-columns: 470px 1fr;
 }
 
 .team {
