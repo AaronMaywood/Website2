@@ -70,6 +70,10 @@ header.page-header .wrapper h1 {
 	align-items: center;
 }
 
+header.page-header .wrapper h1 img {
+	margin-right: 18px;
+}
+
 nav ul {
 	list-style: none;
 	height: 48px;
@@ -392,6 +396,10 @@ MEMO このサイズより小さい時には画像サイズを固定とし、リ
 
 	header .card .thumbnail {
 		height: 100%;
+	}
+
+	header.page-header .wrapper h1 img {
+		margin-right: 10px;
 	}
 
 	.card .thumbnail {
